@@ -34,7 +34,7 @@ COIAS の画面上に透過ウィンドウとして重ねて使用し、
 ## 📦 インストール
 
 ```bash
-git clone https://github.com/ユーザー名/リポジトリ名.git
-cd リポジトリ名
+git clone https://github.com/Hasumukai/COIAS_assistance.git
+cd COIAS_assistance
 
 pip install -r requirements.txt
