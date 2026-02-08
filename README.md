@@ -1,6 +1,6 @@
 # COIAS 小惑星探査支援ツール
 
-このプログラムは、COIAS（Convolutional Object Identification for Asteroid Search）による  
+このプログラムは、COIAS（Come On! Impacting ASteroids）による  
 小惑星探査作業を支援するために開発された Python ベースの補助ツールです。
 
 COIAS の画面上に透過ウィンドウとして重ねて使用し、  
