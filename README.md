@@ -55,8 +55,8 @@ Python : 3.10
 ## 📦 インストール
 
 ```bash
-git clone https://github.com/Hasumukai/COIAS_assistance.git
-cd COIAS_assistance
+git clone https://github.com/Hasumukai/COIAS_assistant.git
+cd COIAS_assistant
 
 pip install -r requirements.txt
 
@@ -67,7 +67,7 @@ COIASを「手動測定/名前修正」まで進める。
 以下を実行し、補助プログラムを起動する。
 
 ```bash
-python3 COIAS_assistance_vX.X.py
+python3 COIAS_assistant_vX.X.py
 ```
 
 1. 半透明なWindow(補助画面)と赤枠（時刻枠）が表示される。
